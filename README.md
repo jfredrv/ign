@@ -1,6 +1,4 @@
-# IGN
-Algoritmo de Identificação de Grupos Naturais
-
+# IGN - Algoritmo de Identificação de Grupos Naturais
 
 Copyright (c) 2025 João Frederico Roldan Viana
 
